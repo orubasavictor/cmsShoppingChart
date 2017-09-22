@@ -1,2 +1,0 @@
-# cmsShoppingChart
-Web Project
